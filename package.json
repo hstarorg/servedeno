@@ -1,0 +1,24 @@
+{
+  "name": "servedeno",
+  "version": "1.0.0",
+  "description": "Serve http server for Deno",
+  "main": ".prettierrc.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "demo": "deno run --allow-net examples/basic/index.ts ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hstarorg/servedeno.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hstarorg/servedeno/issues"
+  },
+  "homepage": "https://github.com/hstarorg/servedeno#readme"
+}
